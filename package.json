@@ -1,0 +1,23 @@
+{
+  "name": "auto-tests",
+  "type": "module",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "directories": {
+    "test": "tests"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SelivanSelivan/auto-tests.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/SelivanSelivan/auto-tests/issues"
+  },
+  "homepage": "https://github.com/SelivanSelivan/auto-tests#readme"
+}
